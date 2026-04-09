@@ -12,8 +12,10 @@ The dashboard includes the following key visualizations:
 Total Sales Amount: 438K
 Total Profit: 37K
 Total Quantity Sold: 5615
+
 📅 Profit by Month
 Monthly trend analysis to identify peak and low-performing periods
+
 📦 Sales by Sub-Category
 Profit distribution across categories such as:
 Printers
@@ -21,30 +23,39 @@ Bookcases
 Sarees
 Accessories
 Tables
+
 🛍️ Quantity Distribution
 Breakdown of quantity sold by sub-category (e.g., Saree, Stole, etc.)
+
 💳 Payment Mode Analysis
 Sales distribution across different payment methods
+
 👥 Customer Analysis
 Sales contribution by individual customers (e.g., Harivansh, Madhav, Madan, Shiva)
+
 🌍 Regional Analysis
 Sales performance across states such as:
 Maharashtra
 Madhya Pradesh
 Uttar Pradesh
+
 🧰 Tools & Technologies
 Power BI Desktop
 Power Query (Data Cleaning & Transformation)
 DAX (Data Analysis Expressions)
+
+
 📂 Files Included
 Sales Dashboard.pbix → Main Power BI dashboard file
 my-dashboard.pdf → Exported dashboard preview
+
 🚀 Features
 Interactive and user-friendly interface
 Dynamic filtering and slicing
 Drill-down capabilities for deeper insights
 Clear KPI tracking
 Visual storytelling using charts and graphs
+
 🎯 Use Cases
 Business performance monitoring
 Sales trend analysis
